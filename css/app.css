@@ -1,0 +1,14 @@
+.navbar-brand h1{
+    color: #006D5C;
+}
+ul li{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 5px;
+    display: flex;
+}
+svg{
+    color: #006D5C;
+    margin-right: 8px ; 
+}
+

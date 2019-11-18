@@ -1,0 +1,27 @@
+
+.brand  {
+    text-transform: uppercase;
+    text-align: center;
+    color: #006D5C;
+    margin: 30px 0 30px 0;
+}
+
+form{
+    width: 450px;
+    margin: 0 auto;
+}
+.form-control{
+    border-color:#006D5C ;
+}
+.form-group{
+    margin: 10px 30px;
+}
+.btn{
+    width: 390px;
+    margin: 10px 30px;
+    background-color: #006D5C;
+}
+
+.btn:hover{
+    background-color:#006D5C ;
+}

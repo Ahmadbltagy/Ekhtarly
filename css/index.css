@@ -1,5 +1,6 @@
 .navbar-brand h1{
     color: #006D5C;
+    text-transform: uppercase;
 }
 ul li{
     font-size: 25px;

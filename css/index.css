@@ -19,3 +19,7 @@ svg{
     
     background-color: #006D5C;
 }
+#jumbo{
+    background-image: url(../img/jumbo.png);
+    height: 421px;
+}

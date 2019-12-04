@@ -1,4 +1,8 @@
+body{
+    font-family: "Releway", sans-serif;
+}
 .navbar-brand h1{
+    font-weight: bold;
     color: #006D5C;
     text-transform: uppercase;
 }
@@ -19,7 +23,25 @@ svg{
     
     background-color: #006D5C;
 }
+
+#header{
+    background-color: #1f1f1f;
+    opacity: 0.6;
+}
+#header h1{
+    color: #006D5C;
+    font-weight: bold;
+    opacity: 1;
+}
 #jumbo{
-    background-image: url(../img/jumbo.png);
-    height: 421px;
+    background: url(../img/computer-2982270_1920.jpg) center center / cover no-repeat;
+    min-height: 421px;
+    border-radius: 2px;
+}
+
+@media(max-width: 768px){
+    #jumbo{
+        min-height: 150px;
+        margin: 0 auto;
+    }
 }
